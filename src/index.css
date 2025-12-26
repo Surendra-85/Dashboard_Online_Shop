@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.input {
+    @apply w-full border border-gray-300 rounded px-2 py-1;
+  }
+  .label {
+    @apply text-sm text-gray-600 mb-1 block;
+  }
+  
